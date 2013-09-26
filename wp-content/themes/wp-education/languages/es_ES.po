@@ -1,0 +1,1199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Education v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-27 01:52+0100\n"
+"PO-Revision-Date: 2013-09-26 12:57-0000\n"
+"Last-Translator: Antonio Irlandés García <limtrack@gmail.com>\n"
+"Language-Team: IventiaJobs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ vz_front_terms
+#: ../404.php:13
+msgid "404 - Page not found, don not worry!"
+msgstr "404 - Página no encontrada, no se preocupe"
+
+# @ vz_front_terms
+#: ../404.php:16
+msgid "It seems that the page you are looking for has moved or no longer exists.<br/> In the meantime, please use our navigation to reach the content you need."
+msgstr "Parece que la página que está buscando se ha movido o ya no existe. <br/> Mientras tanto, por favor, utilice nuestro menú de navegación para alcanzar el contenido que necesitas."
+
+# @ vz_front_terms
+#: ../author.php:79
+#: ../author.php:81
+msgid "Posts by "
+msgstr "Escrito por"
+
+# @ vz_front_terms
+#: ../author.php:81
+msgid "Your posts and the following"
+msgstr "Tus publicaciones y las siguientes"
+
+# @ vz_front_terms
+#: ../author.php:105
+#: ../index.php:47
+#: ../index.php:96
+#: ../template-blog.php:52
+#: ../template-blog.php:105
+#: ../template-events.php:55
+#: ../includes/main/frontend_ajax.php:189
+#: ../includes/main/frontend_ajax.php:583
+msgid "no comments"
+msgstr "Sin comentarios"
+
+# @ vz_front_terms
+#: ../author.php:105
+msgid "<strong>1</strong> comment"
+msgstr "<strong>1</strong> comentario"
+
+# @ vz_front_terms
+#: ../author.php:105
+msgid "<strong>%</strong> comments"
+msgstr "<strong>%</strong> comentarios"
+
+# @ vz_front_terms
+#: ../author.php:114
+#: ../includes/main/frontend_ajax.php:207
+#: ../includes/main/frontend_ajax.php:601
+msgid "by "
+msgstr "por"
+
+# @ vz_front_terms
+#: ../author.php:128
+msgid "You did not post anything yet."
+msgstr "No has publicado nada aún"
+
+# @ vz_front_terms
+#: ../author.php:135
+msgid "The author did not post anything yet."
+msgstr "El autor no ha publicado nada aún"
+
+# @ vz_front_terms
+#: ../author.php:147
+#: ../comments.php:38
+#: ../single-galleries.php:49
+msgid "Showing"
+msgstr "Mostrando"
+
+# @ vz_front_terms
+#: ../author.php:147
+#: ../comments.php:38
+#: ../single-galleries.php:49
+msgid "of"
+msgstr "de"
+
+# @ vz_front_terms
+#: ../author.php:151
+#: ../comments.php:42
+#: ../single-galleries.php:53
+msgid "Load more..."
+msgstr "Cargar más..."
+
+#: ../comments.php:5
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../comments.php:9
+msgid "Your email address will not be published. "
+msgstr "Tu cuenta de correo no será publicada"
+
+#: ../comments.php:9
+msgid "Fields with * mark are mandatory."
+msgstr "Campos con * son obligatorios."
+
+# @ vz_front_terms
+#: ../comments.php:23
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../header.php:71
+msgid "Navigation"
+msgstr "Navegación"
+
+#: ../header.php:75
+msgid "Select"
+msgstr "Selecciona"
+
+#: ../header.php:91
+msgid "Main navigation"
+msgstr "Navegación principal"
+
+# @ vz_front_terms
+#: ../header.php:101
+#: ../header.php:123
+msgid "search now..."
+msgstr "Buscar ahora..."
+
+#: ../header.php:138
+#: ../includes/main/shortcodes.php:146
+msgid "Success"
+msgstr "Éxito"
+
+#: ../header.php:139
+msgid "You have unsubscribed successfully."
+msgstr "Te has dado de baja exitosamente."
+
+# @ vz_front_terms
+#: ../index.php:47
+#: ../index.php:96
+#: ../template-blog.php:52
+#: ../template-blog.php:105
+#: ../template-events.php:55
+msgid "1 comment"
+msgstr "1 comentario"
+
+# @ vz_front_terms
+#: ../index.php:47
+#: ../index.php:96
+#: ../template-blog.php:52
+#: ../template-blog.php:105
+#: ../template-events.php:55
+#, php-format
+msgid "% comments"
+msgstr "% comentarios"
+
+# @ vz_front_terms
+#: ../index.php:128
+#: ../template-blog.php:136
+#: ../template-events.php:87
+#: ../template-galleries.php:71
+msgid "Prev"
+msgstr "Anterior"
+
+# @ vz_front_terms
+#: ../index.php:129
+#: ../template-blog.php:137
+#: ../template-events.php:88
+#: ../template-galleries.php:72
+msgid "Next"
+msgstr "Siguiente"
+
+# @ vz_front_terms
+#: ../single-galleries.php:25
+msgid "Back to albums"
+msgstr "Volver a los álbumes"
+
+# @ vz_front_terms
+#: ../single-galleries.php:26
+#: ../template-galleries.php:47
+#: ../template-gallery.php:23
+msgid "Photos"
+msgstr "Fotos"
+
+# @ vz_front_terms
+#: ../single-galleries.php:26
+#: ../template-galleries.php:47
+#: ../template-gallery.php:23
+msgid "Photo"
+msgstr "Foto"
+
+# @ vz_front_terms
+#: ../single.php:33
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+# @ vz_front_terms
+#: ../single.php:37
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../single.php:71
+msgid "Category: "
+msgstr "Categoría:"
+
+# @ vz_front_terms
+#: ../single.php:91
+msgid "Found useful?"
+msgstr "¿Encontraste algo útil?"
+
+# @ vz_front_terms
+#: ../single.php:101
+#: ../includes/main/theme_parts.php:529
+msgid "Follow"
+msgstr "Seguir"
+
+# @ vz_front_terms
+#: ../single.php:106
+#: ../single.php:113
+#: ../includes/main/theme_parts.php:533
+msgid "Unfollow"
+msgstr "Dejar de seguir"
+
+# @ vz_front_terms
+#: ../single.php:123
+msgid "Share it"
+msgstr "Compartir"
+
+#: ../template-book.php:22
+#: ../includes/plugins/books.php:13
+msgid "Books"
+msgstr "Libros"
+
+#: ../template-book.php:22
+#: ../includes/plugins/books.php:14
+msgid "Book"
+msgstr "Libro"
+
+#: ../template-book.php:51
+msgid "File size"
+msgstr "Tamaño del archivo"
+
+#: ../template-book.php:52
+msgid "Upload date"
+msgstr "Fecha de subida"
+
+#: ../template-books.php:29
+msgid "Genre:"
+msgstr "Género"
+
+#: ../template-books.php:84
+msgid "There is no book post yet."
+msgstr "No hay libros publicados aún."
+
+# @ vz_front_terms
+#: ../template-calendar.php:52
+#: ../includes/main/frontend_ajax.php:291
+#: ../includes/main/frontend_ajax.php:334
+#: ../includes/main/frontend_ajax.php:346
+msgid " to "
+msgstr "a"
+
+# @ vz_front_terms
+#: ../template-calendar.php:76
+msgid "Your schedule"
+msgstr "Tu horario"
+
+# @ vz_front_terms
+#: ../template-calendar.php:79
+msgid "+ Add lecture"
+msgstr "+ Añadir lectura"
+
+# @ vz_front_terms
+#: ../template-calendar.php:81
+msgid "+ New event"
+msgstr "+ Nuevo evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:89
+msgid "Week"
+msgstr "Semana"
+
+# @ vz_front_terms
+#: ../template-calendar.php:98
+msgid "Monday"
+msgstr "Lunes"
+
+# @ vz_front_terms
+#: ../template-calendar.php:99
+msgid "Tuesday"
+msgstr "Martes"
+
+# @ vz_front_terms
+#: ../template-calendar.php:100
+msgid "Wednesday"
+msgstr "Miércoles"
+
+# @ vz_front_terms
+#: ../template-calendar.php:101
+msgid "Thursday"
+msgstr "Jueves"
+
+# @ vz_front_terms
+#: ../template-calendar.php:102
+msgid "Friday"
+msgstr "Viernes"
+
+# @ vz_front_terms
+#: ../template-calendar.php:103
+msgid "Saturday"
+msgstr "Sábado"
+
+# @ vz_front_terms
+#: ../template-calendar.php:201
+msgid "Edit"
+msgstr "Editar"
+
+# @ vz_front_terms
+#: ../template-calendar.php:201
+msgid "Delete"
+msgstr "Borrar"
+
+# @ vz_front_terms
+#: ../template-calendar.php:240
+msgid "Add new lecture"
+msgstr "Nueva conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:243
+msgid "Lecture name"
+msgstr "Nombre de la conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:246
+msgid "Lecture date"
+msgstr "Fecha de la conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:249
+msgid "Lecture hall/room"
+msgstr "Sala/salón de la conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:252
+msgid "Lecture start time"
+msgstr "Hora de comienzo de la conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:253
+msgid "Lecture end time"
+msgstr "Hora de finalización de la conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:258
+msgid "Student group"
+msgstr "Grupo de estudiantes"
+
+# @ vz_front_terms
+#: ../template-calendar.php:261
+#: ../template-calendar.php:274
+#: ../template-calendar.php:317
+#: ../template-calendar.php:330
+#: ../includes/main/theme_parts.php:866
+msgid "None"
+msgstr "Ninguno"
+
+# @ vz_front_terms
+#: ../template-calendar.php:272
+msgid "Repeat lecture"
+msgstr "Repetir conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:275
+#: ../template-calendar.php:331
+msgid "Weekly"
+msgstr "Semanal"
+
+# @ vz_front_terms
+#: ../template-calendar.php:276
+#: ../template-calendar.php:332
+msgid "Monthly"
+msgstr "mensual"
+
+# @ vz_front_terms
+#: ../template-calendar.php:277
+#: ../template-calendar.php:333
+msgid "Yearly"
+msgstr "Anual"
+
+# @ vz_front_terms
+#: ../template-calendar.php:281
+msgid "Add lecture"
+msgstr "Añadir conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:282
+#: ../template-calendar.php:338
+#: ../template-calendar.php:354
+#: ../template-calendar.php:382
+#: ../template-calendar.php:412
+#: ../template-calendar.php:428
+#: ../template-contact.php:94
+#: ../includes/main/shortcodes.php:199
+#: ../includes/main/theme_parts.php:885
+#: ../includes/main/theme_parts.php:904
+msgid "Cancel"
+msgstr "Cancelar"
+
+# @ vz_front_terms
+#: ../template-calendar.php:295
+#: ../template-calendar.php:337
+msgid "Edit lecture"
+msgstr "Editar conferencia"
+
+# @ vz_front_terms
+#: ../template-calendar.php:349
+msgid "Delete lecture with id:"
+msgstr "Eliminar conferencia con id:"
+
+# @ vz_front_terms
+#: ../template-calendar.php:353
+#: ../template-calendar.php:427
+#: ../includes/main/theme_parts.php:903
+msgid "Confirm"
+msgstr "Confirmar"
+
+# @ vz_front_terms
+#: ../template-calendar.php:366
+msgid "Add new event"
+msgstr "Añadir nuevo evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:369
+#: ../template-calendar.php:399
+msgid "Event name"
+msgstr "Nombre del evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:372
+#: ../template-calendar.php:402
+msgid "Event date"
+msgstr "Fecha del evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:375
+#: ../template-calendar.php:405
+msgid "Event start time"
+msgstr "Hora del comienzo del evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:376
+#: ../template-calendar.php:406
+msgid "Event end time"
+msgstr "Hora de la finalización del evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:381
+msgid "Add event"
+msgstr "Añadir evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:395
+#: ../template-calendar.php:411
+msgid "Edit event"
+msgstr "Editar evento"
+
+# @ vz_front_terms
+#: ../template-calendar.php:423
+msgid "Delete event with id:"
+msgstr "Borrar evento con id:"
+
+#: ../template-contact.php:31
+msgid "Information"
+msgstr "Información"
+
+#: ../template-contact.php:35
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../template-contact.php:42
+msgid "Office Address"
+msgstr "Dirección de la oficina"
+
+#: ../template-contact.php:49
+msgid "Email"
+msgstr "Correo"
+
+#: ../template-contact.php:56
+msgid "Public relations"
+msgstr "Relaciones públicas"
+
+#: ../template-contact.php:78
+msgid "Full name"
+msgstr "Nombre completo"
+
+#: ../template-contact.php:79
+msgid "Your name"
+msgstr "Tu nombre"
+
+# @ vz_front_terms
+#: ../template-contact.php:83
+msgid "E-mail address"
+msgstr "Dirección del correo"
+
+#: ../template-contact.php:84
+msgid "Your email"
+msgstr "Tu correo"
+
+#: ../template-contact.php:87
+#: ../template-contact.php:88
+msgid "Subject"
+msgstr "Tema"
+
+#: ../template-contact.php:89
+#: ../template-contact.php:90
+msgid "Your message"
+msgstr "Tu mensaje"
+
+#: ../template-contact.php:93
+msgid "Send"
+msgstr "Enviar"
+
+# @ vz_front_terms
+#: ../template-courses.php:18
+msgid "Nr."
+msgstr "Nr."
+
+# @ vz_front_terms
+#: ../template-courses.php:19
+msgid "Lecture"
+msgstr "Conferencia"
+
+# @ vz_front_terms
+#: ../template-courses.php:20
+#: ../includes/main/function_register.php:337
+msgid "Professor"
+msgstr "Profesor"
+
+# @ vz_front_terms
+#: ../template-courses.php:21
+msgid "Time"
+msgstr "Fecha"
+
+# @ vz_front_terms
+#: ../template-courses.php:22
+msgid "Class"
+msgstr "Clase"
+
+# @ vz_front_terms
+#: ../template-courses.php:39
+msgid "to"
+msgstr "a"
+
+# @ vz_front_terms
+#: ../template-courses.php:48
+msgid "There are no courses yet."
+msgstr "No hay cursos aún."
+
+# @ vz_front_terms
+#: ../template-galleries.php:57
+msgid "There is no gallery post yet."
+msgstr "No hay galerías publicadas aún."
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:314
+msgid "Register"
+msgstr "Registro"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:322
+msgid "Member username"
+msgstr "Nombre de usuario "
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:327
+msgid "Password"
+msgstr "Contraseña"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:330
+msgid "Login your account"
+msgstr "Conéctate a tu cuenta"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:331
+msgid "Recover"
+msgstr "Recuperar"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:356
+msgid "Control Panel"
+msgstr "Panel de control"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:375
+msgid "Go to your wall"
+msgstr "Ir a tu muro"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:377
+msgid "Write an article"
+msgstr "Escribir un artículo"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:380
+msgid "View your schedule"
+msgstr "Ver tu horario"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:382
+msgid "Edit settings"
+msgstr "Editar configuración"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:383
+#: ../includes/main/theme_parts.php:526
+msgid "Logout"
+msgstr "Desconectar"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:603
+msgid "Read more"
+msgstr "Leer más"
+
+# @ vz_front_terms
+#: ../includes/main/custom_widgets.php:662
+msgid "Home"
+msgstr "Inicio"
+
+#: ../includes/main/custom_widgets.php:737
+msgid "Popular"
+msgstr "Popular"
+
+#: ../includes/main/custom_widgets.php:738
+msgid "Most commented"
+msgstr "Más comentado"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:37
+msgid "You've subscribed successfully."
+msgstr "Te has inscrito corréctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:39
+msgid "You've already subscribed."
+msgstr "Ya estas inscrito"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:51
+msgid "Your email is not in subscribers list."
+msgstr "Tu correo no está en la lista de inscritos"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:60
+msgid "We've mailed you unsubscription instructions."
+msgstr "Te hemos enviado un correo con las instrucciones para darte de baja"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:107
+#: ../includes/main/frontend_ajax.php:137
+#: ../includes/main/frontend_ajax.php:501
+#: ../includes/main/frontend_ajax.php:531
+#: ../includes/main/theme_parts.php:33
+#: ../includes/main/theme_parts.php:473
+msgid "at"
+msgstr "en"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:111
+#: ../includes/main/frontend_ajax.php:141
+#: ../includes/main/frontend_ajax.php:505
+#: ../includes/main/frontend_ajax.php:535
+#: ../includes/main/theme_parts.php:38
+msgid "Reply"
+msgstr "Responder"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:111
+#: ../includes/main/frontend_ajax.php:141
+#: ../includes/main/frontend_ajax.php:505
+#: ../includes/main/frontend_ajax.php:535
+#: ../includes/main/theme_parts.php:38
+msgid "Report"
+msgstr "Informar"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:112
+#: ../includes/main/frontend_ajax.php:142
+#: ../includes/main/frontend_ajax.php:506
+#: ../includes/main/frontend_ajax.php:536
+#: ../includes/main/theme_parts.php:39
+msgid "Posted on"
+msgstr "Publicado en"
+
+#: ../includes/main/frontend_ajax.php:191
+#: ../includes/main/frontend_ajax.php:585
+msgid " comment"
+msgstr "Comentario"
+
+#: ../includes/main/frontend_ajax.php:193
+#: ../includes/main/frontend_ajax.php:587
+msgid " comments"
+msgstr "Comentarios"
+
+#: ../includes/main/frontend_ajax.php:252
+#: ../includes/main/frontend_ajax.php:690
+msgid "Your form has been submitted successfully."
+msgstr "Tu formulario ha sido enviado correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:308
+msgid "The lecture was added successfully."
+msgstr "La conferencia ha sido añadida correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:311
+msgid "The event was added successfully."
+msgstr "El evento ha sido añadido correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:367
+msgid "The lecture was updated successfully."
+msgstr "La conferencia ha sido actualizada correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:369
+msgid "The event was updated successfully."
+msgstr "El evento ha sido actualizado correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:384
+msgid "The lecture was deleted successfully."
+msgstr "La conferencia ha sido borrada correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:386
+msgid "The event was deleted successfully."
+msgstr "El evento ha sido eliminado correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:646
+msgid "File was uploaded successfully."
+msgstr "El archivo ha sido actualizado correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/frontend_ajax.php:659
+msgid "File was deleted successfully."
+msgstr "El archivo ha sido borrado correctamente"
+
+# @ vz_front_terms
+#: ../includes/main/function_register.php:336
+msgid "Student"
+msgstr "Estudiante"
+
+#: ../includes/main/shortcodes.php:147
+msgid "Fail"
+msgstr "Fallo"
+
+#: ../includes/main/shortcodes.php:148
+msgid "Warning"
+msgstr "Cuidado"
+
+#: ../includes/main/shortcodes.php:149
+msgid "Info"
+msgstr "Info"
+
+#: ../includes/main/shortcodes.php:183
+msgid "Submit"
+msgstr "Enviar"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:73
+msgid "Social"
+msgstr "Social"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:93
+msgid "Language"
+msgstr "Lenguaje"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:358
+msgid "Featured posts"
+msgstr "Artículo destacado"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:383
+msgid "Full article"
+msgstr "Artículo completo"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:384
+msgid "Author's profile"
+msgstr "Perfil del autor"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:414
+msgid "News"
+msgstr "Noticias"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:460
+#: ../includes/plugins/events.php:13
+msgid "Events"
+msgstr "Eventos"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:525
+msgid "Edit profile"
+msgstr "Editar perfil"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:555
+msgid "Schedule"
+msgstr "Horario"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:614
+msgid "Today"
+msgstr "Hoy"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:619
+msgid "You have some free time today."
+msgstr "Tienes tiempo libre hoy."
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:651
+msgid "Tomorrow"
+msgstr "Mañana"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:656
+msgid "You have some free time tomorrow."
+msgstr "Tienes tiempo libre mañana"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:765
+msgid "Filebox"
+msgstr "Archivos"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:767
+#: ../includes/main/theme_parts.php:884
+msgid "Upload"
+msgstr "Subir"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:860
+msgid "Upload file"
+msgstr "Subir archivo"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:863
+msgid "Existing Folder"
+msgstr "La carpeta ya existe"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:874
+msgid "New Folder"
+msgstr "Nueva carpeta"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:877
+msgid "File"
+msgstr "Archivo"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:878
+msgid "Browse"
+msgstr "Navegar"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:899
+msgid "Delete file with id:"
+msgstr "Borrar archivo por id:"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:935
+msgid "Following authors"
+msgstr "Seguir a los autores"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:942
+msgid "You did not follow any author yet."
+msgstr "No sigues a ningún autor aún"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:961
+msgid "Following posts"
+msgstr "Siguiendo artículos"
+
+# @ vz_front_terms
+#: ../includes/main/theme_parts.php:968
+msgid "You did not follow any post yet."
+msgstr "No sigues ningún artículo aún"
+
+#: ../includes/plugins/books.php:15
+#: ../includes/plugins/courses.php:15
+#: ../includes/plugins/events.php:15
+#: ../includes/plugins/galleries.php:15
+#: ../includes/plugins/staff.php:15
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: ../includes/plugins/books.php:16
+msgid "Add New Book"
+msgstr "Añadir nuevo libro"
+
+#: ../includes/plugins/books.php:17
+msgid "Edit Book"
+msgstr "Editar libro"
+
+#: ../includes/plugins/books.php:18
+msgid "New Book"
+msgstr "Nuevo libro"
+
+#: ../includes/plugins/books.php:19
+msgid "All Books"
+msgstr "Todos los libros"
+
+#: ../includes/plugins/books.php:20
+msgid "View Book"
+msgstr "Ver libro"
+
+#: ../includes/plugins/books.php:21
+msgid "Search Books"
+msgstr "Buscar libros"
+
+#: ../includes/plugins/books.php:22
+msgid "No books found"
+msgstr "No se han encontrado libros"
+
+#: ../includes/plugins/books.php:23
+msgid "No books found in the Trash"
+msgstr "No se han encontrado libros en la papelera"
+
+#: ../includes/plugins/books.php:63
+msgid "Genres"
+msgstr "Géneros"
+
+#: ../includes/plugins/books.php:64
+msgid "Genre"
+msgstr "Género"
+
+#: ../includes/plugins/books.php:65
+msgid "Search Genres"
+msgstr "Buscar géneros"
+
+#: ../includes/plugins/books.php:66
+msgid "Popular Genres"
+msgstr "Géneros populares"
+
+#: ../includes/plugins/books.php:67
+msgid "All Genres"
+msgstr "Todos los géneros"
+
+#: ../includes/plugins/books.php:68
+msgid "Parent Genres"
+msgstr "Géneros padres"
+
+#: ../includes/plugins/books.php:69
+msgid "Parent Genre:"
+msgstr "Género padre"
+
+#: ../includes/plugins/books.php:70
+msgid "Edit Genre"
+msgstr "Editar género"
+
+#: ../includes/plugins/books.php:71
+msgid "Update Genre"
+msgstr "Actualizar género"
+
+#: ../includes/plugins/books.php:72
+msgid "Add New Genre"
+msgstr "Añadir nuevo género"
+
+#: ../includes/plugins/books.php:73
+msgid "New Genre Name"
+msgstr "Nombre  del nuevo género"
+
+#: ../includes/plugins/calendars.php:15
+msgid "Calendar"
+msgstr "Calendario"
+
+#: ../includes/plugins/courses.php:13
+msgid "Courses"
+msgstr "Cursos"
+
+#: ../includes/plugins/courses.php:14
+msgid "Course"
+msgstr "Curso"
+
+#: ../includes/plugins/courses.php:16
+msgid "Add New Course"
+msgstr "Añadir nuevo Curso"
+
+#: ../includes/plugins/courses.php:17
+msgid "Edit Course"
+msgstr "Editar Curso"
+
+#: ../includes/plugins/courses.php:18
+msgid "New Course"
+msgstr "Nuevo Curso"
+
+#: ../includes/plugins/courses.php:19
+msgid "All Courses"
+msgstr "Todos los cursos"
+
+#: ../includes/plugins/courses.php:20
+msgid "View Course"
+msgstr "Ver Curso"
+
+#: ../includes/plugins/courses.php:21
+msgid "Search Courses"
+msgstr "Buscar Curso"
+
+#: ../includes/plugins/courses.php:22
+msgid "No courses found"
+msgstr "No se ha encontrado cursos"
+
+#: ../includes/plugins/courses.php:23
+msgid "No courses found in the Trash"
+msgstr "No se encontraron cursos en la basura"
+
+#: ../includes/plugins/events.php:14
+msgid "Event"
+msgstr "Evento"
+
+#: ../includes/plugins/events.php:16
+msgid "Add New Event"
+msgstr "Añadir nuevo evento"
+
+#: ../includes/plugins/events.php:17
+msgid "Edit Event"
+msgstr "Editar evento"
+
+#: ../includes/plugins/events.php:18
+msgid "New Event"
+msgstr "Nuevo evento"
+
+#: ../includes/plugins/events.php:19
+msgid "All Events"
+msgstr "Todos los eventos"
+
+#: ../includes/plugins/events.php:20
+msgid "View Event"
+msgstr "Ver evento"
+
+#: ../includes/plugins/events.php:21
+msgid "Search Events"
+msgstr "Buscar eventos"
+
+#: ../includes/plugins/events.php:22
+msgid "No events found"
+msgstr "No se encontraron eventos"
+
+#: ../includes/plugins/events.php:23
+msgid "No events found in the Trash"
+msgstr "No se han encontrado  eventos en la papelera"
+
+#: ../includes/plugins/forms.php:15
+msgid "Forms"
+msgstr "Formularios"
+
+#: ../includes/plugins/galleries.php:13
+msgid "Galleries"
+msgstr "Gallerías"
+
+#: ../includes/plugins/galleries.php:14
+msgid "Gallery"
+msgstr "Galería"
+
+#: ../includes/plugins/galleries.php:16
+msgid "Add New Gallery"
+msgstr "Añadir nueva galería"
+
+#: ../includes/plugins/galleries.php:17
+msgid "Edit Gallery"
+msgstr "Editar galería"
+
+#: ../includes/plugins/galleries.php:18
+msgid "New Gallery"
+msgstr "Nueva galería"
+
+#: ../includes/plugins/galleries.php:19
+msgid "All Galleries"
+msgstr "Todas las galerías"
+
+#: ../includes/plugins/galleries.php:20
+msgid "View Gallery"
+msgstr "Ver galería"
+
+#: ../includes/plugins/galleries.php:21
+msgid "Search Galleries"
+msgstr "Buscar galerías"
+
+#: ../includes/plugins/galleries.php:22
+msgid "No galleries found"
+msgstr "No se han encontrado galerías"
+
+#: ../includes/plugins/galleries.php:23
+msgid "No galleries found in the Trash"
+msgstr "No se han encontrado galerías en la papelera"
+
+#: ../includes/plugins/galleries.php:61
+msgid "Folders"
+msgstr "Carpetas"
+
+#: ../includes/plugins/galleries.php:62
+msgid "Folder"
+msgstr "Carpeta"
+
+#: ../includes/plugins/galleries.php:63
+msgid "Search Folders"
+msgstr "Buscar carpetas"
+
+#: ../includes/plugins/galleries.php:64
+msgid "Popular Folders"
+msgstr "Carpetas populares"
+
+#: ../includes/plugins/galleries.php:65
+msgid "All Folders"
+msgstr "Todas las carpetas"
+
+#: ../includes/plugins/galleries.php:66
+msgid "Parent Folders"
+msgstr "Carpetas padre"
+
+#: ../includes/plugins/galleries.php:67
+msgid "Parent Folder:"
+msgstr "Carpeta padre"
+
+#: ../includes/plugins/galleries.php:68
+msgid "Edit Folder"
+msgstr "Editar carpeta"
+
+#: ../includes/plugins/galleries.php:69
+msgid "Update Folder"
+msgstr "Actualizar carpeta"
+
+#: ../includes/plugins/galleries.php:70
+msgid "Add New Folder"
+msgstr "Añadir nueva carpeta"
+
+#: ../includes/plugins/galleries.php:71
+msgid "New Folder Name"
+msgstr "Nuevo nombre de la carpeta"
+
+#: ../includes/plugins/staff.php:13
+#: ../includes/plugins/staff.php:14
+msgid "Staff"
+msgstr "Personal"
+
+#: ../includes/plugins/staff.php:16
+msgid "Add New Staff"
+msgstr "Añadir nuevo personal"
+
+#: ../includes/plugins/staff.php:17
+msgid "Edit Staff"
+msgstr "Editar personal"
+
+#: ../includes/plugins/staff.php:18
+msgid "New Staff"
+msgstr "Nuevo personal"
+
+#: ../includes/plugins/staff.php:19
+msgid "All Staff"
+msgstr "Todo el personal"
+
+#: ../includes/plugins/staff.php:20
+msgid "View Staff"
+msgstr "Ver personal"
+
+#: ../includes/plugins/staff.php:21
+msgid "Search Staff"
+msgstr "Buscar personal"
+
+#: ../includes/plugins/staff.php:22
+msgid "No staff member found"
+msgstr "No se ha encontrado a algún personal"
+
+#: ../includes/plugins/staff.php:23
+msgid "No staff member found in the Trash"
+msgstr "No se ha encontrado ningún personal en la papelera"
+
+#: ../includes/plugins/subscribers.php:15
+msgid "Subscribers"
+msgstr "Inscritos"
+
