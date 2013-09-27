@@ -413,7 +413,7 @@ a:focus {
 	display: block;
 	text-align: center;
 	margin-bottom: 6px;
-	margin-right: 20px;
+	/*margin-right: 20px;*/
 }
 
 .head_content .head_logo a.aligncenter_text {
@@ -489,7 +489,7 @@ a:focus {
 	padding-right: 25px;
 	position: absolute;
 	right: 15px;
-	top: 15px;
+	top: 6px;
 	width: 65px;
 	display:none;
 }
@@ -598,7 +598,8 @@ a:focus {
 .head_content .mainmenu_mobile {
 	display:block;
 	overflow:hidden;
-	background-color: #d89b4b;
+	background-color: #C12627;
+	background-image: url("includes/images/nav_bg.png");
 	
 	height: 40px;
 	line-height: 40px;
@@ -844,6 +845,10 @@ a:focus {
 
 
 /* Widget TIP */
+
+.container .sidebar .widget.tip {
+	margin-left: 0px !important;
+}
 
 .container .widget.tip {
 	background: #e2e2e2;
@@ -1339,7 +1344,7 @@ a:focus {
 }
 
 .sidebar .widget.path .current { 
-	color: #d89b4b; 
+	color: #BF9E0C; 
 }
 
 

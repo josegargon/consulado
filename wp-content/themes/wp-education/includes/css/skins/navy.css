@@ -70,6 +70,24 @@
 .container .widget.widget_tag_cloud .tagcloud a:hover,
 .content .staff .about .icons a:hover  { background: url(../../images/back_header.jpg) top left; }
 
+.sidebar .widget.path { background: #E2E2E2; color:#666; }
+
+.sidebar .widget.path a{ color:#565656; }
+
+.sidebar .widget.path .current{ color:#1B2656; }
+
+.content .post .post-footer .main, 
+.featured .main{
+	background: #C12627;
+	color:#fff;
+	border: 1px solid #A11D1E;
+}
+
+.content .post .post-footer .main:hover,
+.featured .main:hover{
+	background: #A11D1E;
+}
+
 /* HEADER */
 .header h4 { color: #A0A9D5; }
 
