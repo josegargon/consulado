@@ -4,12 +4,24 @@
 		"selected_items":
 		[
 			[
-				"ma",
-				"margin-bottom"
+				"margin",
+				"margin-left"
 			],
 			[
 				"wi",
-				"width"
+				"widget"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ma",
+				"margin-bottom"
 			],
 			[
 				"pa",
@@ -22,10 +34,6 @@
 			[
 				"mar",
 				"margin-left"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"text",
@@ -68,10 +76,6 @@
 				"alert-warning"
 			],
 			[
-				"ba",
-				"background-repeat"
-			],
-			[
 				"top",
 				"top-header"
 			],
@@ -102,10 +106,6 @@
 			[
 				"marg",
 				"margin-left"
-			],
-			[
-				"bor",
-				"border-top"
 			],
 			[
 				"border",
@@ -376,14 +376,18 @@
 	},
 	"file_history":
 	[
+		"/home/limtrack/Proyectos/consulado/wp-includes/theme-compat/footer.php",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/css/responsive.css",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/css/skins/navy.css",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/footer.php",
+		"/home/limtrack/Proyectos/consulado/wp-config.php",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/style.css",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/main/theme_parts.php",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/template-home.php",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/template-home2.php",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/header.php",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/css/skins/red.css",
-		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/css/skins/navy.css",
-		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/style.css",
 		"/home/limtrack/Proyectos/consulado/index.php",
-		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/template-home.php",
-		"/home/limtrack/Proyectos/consulado/wp-config.php",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/functions.php",
 		"/home/limtrack/Proyectos/urban/wp-content/themes/urban-azafatas/casting-online.php",
 		"/home/limtrack/Proyectos/urban/conf/sql/urban.sql",
@@ -499,11 +503,7 @@
 		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/EmpresaBundle/Controller/ViewCandidateController.php",
 		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Resources/views/Usuario/edit-profile.html.twig",
 		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Resources/views/Usuario/basic_1column.html.twig",
-		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Entity/Visibility.php",
-		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/EmpresaBundle/Resources/views/ViewCandidate/boardsCandidato.html.twig",
-		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/EmpresaBundle/Resources/views/ViewCandidate/boardBoxViewCandidate.html.twig",
-		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/EmpresaBundle/Entity/Producto.php",
-		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/EmpresaBundle/Resources/views/Empresa/registroFinalEmpresa.html.twig"
+		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Entity/Visibility.php"
 	],
 	"find":
 	{
@@ -511,7 +511,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/home/limtrack/Proyectos/consulado/",
@@ -539,6 +539,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h4",
+			"Most commented",
+			" Most commented ",
+			"theme by Vuzzu",
+			"slide",
+			"flex-active-slide",
+			"put your unique phrase here",
 			"function wp_get_image_editor",
 			"z_home_slider_wide",
 			"sliding",
@@ -659,14 +666,7 @@
 			"getChildren",
 			"partialize",
 			"colorBoxLoad",
-			"params",
-			"preview",
-			"colorBoxInitCSS",
-			"colorbox",
-			"cleanPlaceholder",
-			"public",
-			"cvVisibleByRole",
-			"function getBoards"
+			"params"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -674,6 +674,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"carambirubicarambirubaoyonosequetienequecadadiamegustasmau",
 			"C12627",
 			"9F310C",
 			"/wp-content/themes/urban-azafatas/",
@@ -800,8 +801,7 @@
 			"<p class=\"ml15\">",
 			"</strong>",
 			"<strong class=\"purple\">",
-			"",
-			"</p>"
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -859,8 +859,20 @@
 		"selected_items":
 		[
 			[
+				"footer",
+				"wp-includes/theme-compat/footer.php"
+			],
+			[
+				"style",
+				"wp-content/themes/wp-education/style.css"
+			],
+			[
 				"navy",
 				"wp-content/themes/wp-education/includes/css/skins/navy.css"
+			],
+			[
+				"wp-con",
+				"wp-config.php"
 			],
 			[
 				"red",
@@ -875,16 +887,8 @@
 				"wp-content/themes/urban-azafatas/casting-online.php"
 			],
 			[
-				"style",
-				"wp-content/themes/urban-azafatas/style.css"
-			],
-			[
 				"tra",
 				"wp-content/themes/urban-azafatas/trabaja-con-nosotros.php"
-			],
-			[
-				"footer",
-				"wp-includes/theme-compat/footer.php"
 			],
 			[
 				"inic",
@@ -1365,10 +1369,6 @@
 			[
 				"commentmodalscript",
 				"src/Iventiajobs/EmpresaBundle/Resources/views/ViewCandidate/commentModalScript.js.twig"
-			],
-			[
-				"2col",
-				"src/Iventiajobs/FrontendBundle/Resources/views/Layouts/2column.html.twig"
 			]
 		],
 		"width": 0.0
