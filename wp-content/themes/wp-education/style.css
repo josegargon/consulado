@@ -1940,6 +1940,17 @@ a:focus {
 	font-family: 'RobotoBold';
 }
 
+.post ul,
+.post ol{
+	list-style: disc inside none;
+	margin-left: 20px;
+}
+
+.post ul li,
+.post ol li{
+	line-height: 24px;
+}
+
 /* event */
 .content .feed .event:last-of-type {
 	border-bottom: 0;
