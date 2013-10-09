@@ -352,28 +352,26 @@
 	"buffers":
 	[
 		{
-			"file": "wp-content/themes/wp-education/includes/css/superfish.css",
+			"file": "wp-content/themes/wp-education/style.css",
 			"settings":
 			{
-				"buffer_size": 1095,
+				"buffer_size": 70583,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "Searching 1319 files for \"C78A3C\"\n\n0 matches across 0 files\n",
+			"file": "wp-content/themes/wp-education/footer.php",
 			"settings":
 			{
-				"buffer_size": 60,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
+				"buffer_size": 2233,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "wp-content/themes/wp-education/style.css",
+			"file": "wp-content/themes/wp-education/page.php",
 			"settings":
 			{
-				"buffer_size": 70429,
+				"buffer_size": 539,
 				"line_ending": "Windows"
 			}
 		}
@@ -403,11 +401,12 @@
 	"file_history":
 	[
 		"/home/limtrack/Proyectos/consulado/wp-includes/theme-compat/footer.php",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/css/superfish.css",
+		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/style.css",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/css/responsive.css",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/css/skins/navy.css",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/footer.php",
 		"/home/limtrack/Proyectos/consulado/wp-config.php",
-		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/style.css",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/includes/main/theme_parts.php",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/template-home.php",
 		"/home/limtrack/Proyectos/consulado/wp-content/themes/wp-education/template-home2.php",
@@ -528,8 +527,7 @@
 		"/home/limtrack/Proyectos/iventia2/app/config/services.yml",
 		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/EmpresaBundle/Controller/ViewCandidateController.php",
 		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Resources/views/Usuario/edit-profile.html.twig",
-		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Resources/views/Usuario/basic_1column.html.twig",
-		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Entity/Visibility.php"
+		"/home/limtrack/Proyectos/iventia2/src/Iventiajobs/UsuarioBundle/Resources/views/Usuario/basic_1column.html.twig"
 	],
 	"find":
 	{
@@ -565,6 +563,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"footer",
+			"container",
+			"footer",
+			".page",
 			"footer",
 			"form",
 			"C78A3C",
@@ -688,11 +690,7 @@
 			"dum",
 			"function dum",
 			"function dump",
-			"dump",
-			");\n",
-			"run",
-			"getChildren",
-			"red"
+			"dump"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -843,18 +841,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "wp-content/themes/wp-education/includes/css/superfish.css",
+					"file": "wp-content/themes/wp-education/style.css",
 					"settings":
 					{
-						"buffer_size": 1095,
+						"buffer_size": 70583,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1054,
-								1054
+								53405,
+								53405
 							]
 						],
 						"settings":
@@ -863,16 +861,17 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 510.0,
+						"translation.y": 49487.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "wp-content/themes/wp-education/footer.php",
 					"settings":
 					{
-						"buffer_size": 60,
+						"buffer_size": 2233,
 						"regions":
 						{
 						},
@@ -885,13 +884,8 @@
 						],
 						"settings":
 						{
-							"detect_indentation": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -901,27 +895,27 @@
 				},
 				{
 					"buffer": 2,
-					"file": "wp-content/themes/wp-education/style.css",
+					"file": "wp-content/themes/wp-education/page.php",
 					"settings":
 					{
-						"buffer_size": 70429,
+						"buffer_size": 539,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								54872,
-								54872
+								507,
+								507
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 50796.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -971,16 +965,28 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"wp-content/themes/wp-education/page.php"
+			],
+			[
+				"footer",
+				"wp-content/themes/wp-education/footer.php"
+			],
+			[
+				"foo",
+				"wp-includes/theme-compat/footer.php"
+			],
+			[
+				"style.css",
+				"wp-content/themes/wp-education/style.css"
+			],
+			[
 				"style",
 				"wp-content/themes/wp-education/style.css"
 			],
 			[
 				"superfis",
 				"wp-content/themes/wp-education/includes/css/superfish.css"
-			],
-			[
-				"footer",
-				"wp-includes/theme-compat/footer.php"
 			],
 			[
 				"navy",
@@ -1045,10 +1051,6 @@
 			[
 				"std.css",
 				"wp-content/plugins/easy-contact-forms/forms/styles/formscompressed/css/std.css"
-			],
-			[
-				"style.css",
-				"wp-content/themes/wordpress-bootstrap-master/style.css"
 			],
 			[
 				"servicios",
@@ -1473,14 +1475,6 @@
 			[
 				"template",
 				"vendor/twig/lib/Twig/TemplateInterface.php"
-			],
-			[
-				"basic_1",
-				"src/Iventiajobs/UsuarioBundle/Resources/views/Usuario/basic_1column.html.twig"
-			],
-			[
-				"invite-offers",
-				"src/Iventiajobs/EmpresaBundle/Resources/views/ViewCandidate/invite-offers.js.twig"
 			]
 		],
 		"width": 0.0
