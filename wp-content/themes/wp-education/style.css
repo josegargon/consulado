@@ -1942,13 +1942,13 @@ a:focus {
 
 .post ul,
 .post ol{
-	list-style: disc inside none;
-	margin-left: 20px;
+	list-style: disc inside none !important;
+	margin-left: 20px !important;
 }
 
 .post ul li,
 .post ol li{
-	line-height: 24px;
+	line-height: 24px !important;
 }
 
 /* event */
