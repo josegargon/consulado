@@ -355,7 +355,7 @@
 			"file": "wp-content/themes/wp-education/style.css",
 			"settings":
 			{
-				"buffer_size": 70583,
+				"buffer_size": 70646,
 				"line_ending": "Windows"
 			}
 		},
@@ -535,7 +535,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/home/limtrack/Proyectos/consulado/",
@@ -563,6 +563,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"footer",
+			"body",
+			"body{",
 			"footer",
 			"container",
 			"footer",
@@ -687,10 +690,7 @@
 			"doload",
 			"load",
 			"dump",
-			"dum",
-			"function dum",
-			"function dump",
-			"dump"
+			"dum"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -836,7 +836,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -844,15 +844,15 @@
 					"file": "wp-content/themes/wp-education/style.css",
 					"settings":
 					{
-						"buffer_size": 70583,
+						"buffer_size": 70646,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								53405,
-								53405
+								1300,
+								1300
 							]
 						],
 						"settings":
@@ -861,7 +861,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 49487.0,
+						"translation.y": 323.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
