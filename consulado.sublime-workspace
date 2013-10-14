@@ -374,6 +374,14 @@
 				"buffer_size": 539,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "wp-content/themes/wp-education/header.php",
+			"settings":
+			{
+				"buffer_size": 5321,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -535,7 +543,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"/home/limtrack/Proyectos/consulado/",
@@ -836,7 +844,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -919,6 +927,33 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/wp-education/header.php",
+					"settings":
+					{
+						"buffer_size": 5321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								897,
+								897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -964,6 +999,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"header",
+				"wp-content/themes/wp-education/header.php"
+			],
 			[
 				"pa",
 				"wp-content/themes/wp-education/page.php"
@@ -1015,10 +1054,6 @@
 			[
 				"inic",
 				"wp-content/themes/urban-azafatas/inicio.php"
-			],
-			[
-				"header",
-				"wp-content/themes/urban-azafatas/header.php"
 			],
 			[
 				"functions",
