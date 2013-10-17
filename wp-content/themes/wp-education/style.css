@@ -579,10 +579,10 @@ a:focus {
 }
 
 .head_content .main_nav input.search {
-	background: #fff url(includes/images/ics.png) no-repeat 168px 8px; /* Background-Positioning X, Y */
+	background: #fff url(includes/images/ics.png) no-repeat 148px 8px; /* Background-Positioning X, Y */
 	float: right;
 
-	width: 170px;
+	width: 150px;
 	height: 30px;
 
 	font-size: 11px;

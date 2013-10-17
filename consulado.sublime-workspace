@@ -355,7 +355,7 @@
 			"file": "wp-content/themes/wp-education/style.css",
 			"settings":
 			{
-				"buffer_size": 70646,
+				"buffer_size": 70650,
 				"line_ending": "Windows"
 			}
 		},
@@ -380,6 +380,14 @@
 			"settings":
 			{
 				"buffer_size": 5321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/wp-education/includes/main/theme_parts.php",
+			"settings":
+			{
+				"buffer_size": 33757,
 				"line_ending": "Windows"
 			}
 		}
@@ -571,6 +579,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"vz_show_logo",
+			"head_logo",
+			"strtolower",
 			"footer",
 			"body",
 			"body{",
@@ -695,10 +706,7 @@
 			"292929",
 			"getchildre",
 			"ld",
-			"doload",
-			"load",
-			"dump",
-			"dum"
+			"doload"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -844,7 +852,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -852,15 +860,15 @@
 					"file": "wp-content/themes/wp-education/style.css",
 					"settings":
 					{
-						"buffer_size": 70646,
+						"buffer_size": 70650,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1300,
-								1300
+								9535,
+								9535
 							]
 						],
 						"settings":
@@ -869,7 +877,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 323.0,
+						"translation.y": 7004.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -940,8 +948,8 @@
 						"selection":
 						[
 							[
-								897,
-								897
+								2155,
+								2155
 							]
 						],
 						"settings":
@@ -950,7 +958,34 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 680.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/wp-education/includes/main/theme_parts.php",
+					"settings":
+					{
+						"buffer_size": 33757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4953,
+								4953
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1938.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
