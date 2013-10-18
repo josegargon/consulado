@@ -20,7 +20,7 @@
 						<img src="<?php echo vz_resize( get_post_thumbnail_id(), 'vz_block_bloghead'); ?>" />
 						<?php endif; ?>
 
-						<?php if( !get_option('vz_options_btemp_author_disabled') ) : ?>
+						<?php /* if( !get_option('vz_options_btemp_author_disabled') ) : ?>
 							<div class="bypostauthor rounded_2 alignright">
 
 								<div class="info alignleft">
@@ -47,7 +47,7 @@
 								</div>							
 
 							</div>
-						<?php endif; ?>
+						<?php endif; */ ?>
 
 					</div>
 
