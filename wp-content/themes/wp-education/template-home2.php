@@ -8,7 +8,9 @@ get_header(); ?>
 
 	<div class="container container_12">
 
-		<?php if( !get_option('vz_options_home_slider_disabled') ) vz_home_slider_wide(); // Loading v2 slider ?>
+		<div class="hidden-phone">
+			<?php if( !get_option('vz_options_home_slider_disabled') ) vz_home_slider_wide(); // Loading v2 slider ?>
+		</div>
 
 		<?php dynamic_sidebar('Home2-center'); ?>
 
@@ -22,7 +24,7 @@ get_header(); ?>
 			<?php
 
 			// Showing featured news
-			vz_home_featured();
+			//vz_home_featured();
 
 			// Showing home news block
 			vz_home_news(); 

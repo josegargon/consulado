@@ -714,13 +714,13 @@ a:focus {
 	position: absolute;
 	overflow: hidden;
 
-	width: 404px;
+	width: 100%;
 	height: auto;
-	top: 112px;
-	right: 10px;
-	padding-left: 19px;
-	opacity: 0.95;
+	left: 0px;
+	bottom: -2px;
+	opacity: 0.9;
 	z-index: 2;
+	height: 80px;
 }
 
 .container .slider.wide .caption {
@@ -728,10 +728,10 @@ a:focus {
 }
 
 .container .slider .caption .caption-content {
-	width: 350px;
+	width: 80%;
 	font-size: 11px;
-	margin-top: 18px;
-
+	margin-top: 0;
+	padding: 10px 20px;
 	color: #6f6d6e;
 }
 
@@ -754,7 +754,7 @@ a:focus {
 }
 
 .container .slider .caption .arrows a#prev {
-	height: 54px;
+	height: 39px;
 
 	border-bottom: 1px solid #d8d8d8;
 }
@@ -762,7 +762,7 @@ a:focus {
 	display: block;
 
 	width: 33px;
-	height: 55px;
+	height: 40px;
 }
 
 .container .slider .caption .arrows a#prev {

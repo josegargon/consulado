@@ -58,8 +58,8 @@
 	.head_content .top_nav { display:none !important; }
 	.head_content .topmenu_mobile { display:block !important; cursor: pointer; }
 
-	.container .slider .caption { width: 80%; height: 38px; top: auto; right: 10px; bottom: 10px; }
-	.container .slider .caption .caption-content { width: 70%; overflow: hidden; }
+	.container .slider .caption { height: 38px; }
+	.container .slider .caption .caption-content { width: 80%; overflow: hidden;margin-top: 0px !important;padding-top: 6px !important; }
 	.container .slider .caption .caption-content p { display: none !important; }
 	.container .slider .caption .arrows { 
 		margin-top: 4px; margin-right: 5px;
@@ -95,6 +95,7 @@
 @media screen and (max-width : 769px) {
 	.content .grid_4 { width: 100%; }
 	.container .user_info .schedule .date { width: 70%; }
+	.hidden-phone{display: none;}
 }
 
 

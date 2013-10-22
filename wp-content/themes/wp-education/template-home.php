@@ -13,7 +13,9 @@ get_header(); ?>
 		<!-- BEGIN CONTENT  -->
 		<div class="content alignleft">
 
-			<?php if( !get_option('vz_options_home_slider_disabled') ) vz_home_slider(); // Loading v1 slider
+			<div class="hidden-phone">
+				<?php if( !get_option('vz_options_home_slider_disabled') ) vz_home_slider(); // Loading v1 slider
+			</div>
 
 
 			// Showing featured news
