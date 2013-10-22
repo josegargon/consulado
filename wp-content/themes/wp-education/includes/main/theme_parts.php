@@ -287,7 +287,7 @@ function vz_home_slider_wide() {
 						if(!$_first_slide) { 
 							//$_first_slide['link'] = '<a href="'.get_permalink().'">'.substr(get_the_title(),0,40).'</a>';
 							$_first_slide['link'] = '<a href="'.get_permalink().'">'.get_the_title().'</a>';   
-							$_first_slide['caption'] = substr(str_replace('[...]','',get_the_excerpt()),0,250); 
+							$_first_slide['caption'] = substr(str_replace('[...]','',get_the_excerpt()),0,250)."..."; 
 						} ?>
 
 						<li <?php echo $dsp; ?>>
