@@ -409,7 +409,7 @@ function vz_home_news() {
 
 	if ( $block_posts->have_posts() ) : ?>
 
-		<div class="feed grid_4 rounded_2">
+		<div class="feed grid_8 rounded_2">
 
 			<h2 class="title"> <?php _e('News','vz_front_terms'); ?> </h2>
 

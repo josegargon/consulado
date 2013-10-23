@@ -31,7 +31,7 @@ get_header(); ?>
 			vz_home_news(); 
 
 			// Showing home events block
-			vz_home_events(); 
+			//vz_home_events(); 
 
 			?>
 
