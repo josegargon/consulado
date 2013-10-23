@@ -7,9 +7,10 @@
 get_header(); ?>
 
 	<div class="container container_12">
-
-		<div class="hidden-phone">
-			<?php if( !get_option('vz_options_home_slider_disabled') ) vz_home_slider_wide(); // Loading v2 slider ?>
+		<?php //if( !get_option('vz_options_home_slider_disabled') ) vz_home_slider_wide(); // Loading v2 slider ?>
+		<div class="hidden-phone" style="overflow: hidden; margin-left: 10px; margin-bottom: 20px;position:relative;">
+			<img class="rounded_2" style="width:100%; display:block;" src="/wp-content/uploads/2013/10/Bandera-940x330.jpg">
+			<h1 style="position:absolute; bottom:0;left:0px;padding:10px;background:#000;opacity:0.9;color: #F9D84D;font-family: 'RobotoBold';font-size: 18px !important;display:block;width:100%;">Bienvenidos a la web del Consulado de Ecuador de Sevilla</h1>
 		</div>
 
 		<?php dynamic_sidebar('Home2-center'); ?>
