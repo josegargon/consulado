@@ -19,10 +19,10 @@
 define('DB_NAME', 'consulado');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'consulado');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'iventiajobs');
+define('DB_PASSWORD', 'c0NsVl4D0');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
