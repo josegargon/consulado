@@ -10,6 +10,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="google-site-verification" content="1kZfXBMRQG-Bh29ZWIFs3MWL6z0208_88KhpXiILkDE"/>
 
 	<!-- Title -->
 	<title><?php bloginfo('name'); ?>  <?php wp_title(); ?></title>
